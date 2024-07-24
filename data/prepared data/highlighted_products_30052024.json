@@ -1,0 +1,36 @@
+{
+    "highlighted_products": {
+        "highest_rated_product_info": [
+            {
+                "product_name": "The Body Crème",
+                "rating": 4.9,
+                "number_of_reviews": 110,
+                "image": "https://www.cremedelamer.com/media/export/cms/products/responsive/lm_sku_27G201_4x5_0.png?width=900&height=1125"
+            }
+        ],
+        "most_rated_product_info": [
+            {
+                "product_name": "Crème De La Mer",
+                "rating": 4.7,
+                "number_of_reviews": 7488,
+                "image": "https://cremedelamer.com/media/export/cms/products/responsive/lm_sku_332002_4x5_0.png?width=900&height=1125"
+            }
+        ],
+        "lowest_rated_product_info": [
+            {
+                "product_name": "The Treatment Lotion Hydrating Mask",
+                "rating": 3.6,
+                "number_of_reviews": 36,
+                "image": "https://www.cremedelamer.com/media/export/cms/products/responsive/lm_sku_5PE901_4x5_0.png?width=900&height=1125"
+            }
+        ],
+        "least_rated_product_info": [
+            {
+                "product_name": "The New Lifting Firming Serum",
+                "rating": 4.7,
+                "number_of_reviews": 3,
+                "image": "https://www.cremedelamer.com/media/export/cms/products/responsive/lm_sku_5R2601_4x5_0.png?width=900&height=1125"
+            }
+        ]
+    }
+}
