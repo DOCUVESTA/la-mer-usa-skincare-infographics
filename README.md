@@ -1,5 +1,5 @@
 <h1 align="center">
-	Automated Infographics for La Mer Skincare USA Best-Seller Products
+	Automated PDF Infographic for La Mer Skincare USA Best-Selling Products
 </h1>
 
 <h3 align="center">
