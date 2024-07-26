@@ -14,12 +14,20 @@ Who doesn't love neat, themed, and aesthetically pleasing infographics, especial
 <div align="center"">
   <img src="https://github.com/DOCUVESTA/la-mer-usa-skincare-infographics/blob/d75ef212668ef2dbbd28252fbaf2bab02416bf8d/assets/flow_of_data.png" alt="flow" width="680" height="400" />
 </div>
-	
 
 
 
 ## Repository Contents
-## Folder: data
+### File: lamer_infographic.pdf
+#### La Mer Skincare Infographic
+<details open>
+<summary>Preview</summary>
+<div align="center"">
+  <img src="https://github.com/DOCUVESTA/la-mer-usa-skincare-infographics/blob/9bb4c7af98e3c3b66360a342f78d465d3bea4c53/assets/preview_infographic.png" alt="preview"/>
+</div>
+</details>
+
+### Folder: data
 #### Raw data
 <table style="width:100%">
     <tr>
@@ -57,6 +65,23 @@ Who doesn't love neat, themed, and aesthetically pleasing infographics, especial
 </table>
 <br>
 
-### Python scripts:
+### Folder: utils
+##### Python package that include all modules used to create infographic
+```
+utils/
+        ├── __init__.py
+        ├── load_clean_dataframe.py
+        ├── prepare_infographics_data.py
+        ├── create_graph.py
+        └── generate_pdf.py
+
+```
+
+
+### Folder: assets
+##### All assets used to complete project
+- infographic background
+- pictures
+- font
 
 
