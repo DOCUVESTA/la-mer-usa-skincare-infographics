@@ -21,7 +21,7 @@ Who doesn't love neat, themed, and aesthetically pleasing infographics, especial
 ### File: lamer_infographic.pdf
 #### La Mer Skincare Infographic
 <details open>
-<summary>Preview</summary>
+<summary>Preview :sparkles:</summary>
 <div align="center"">
   <img src="https://github.com/DOCUVESTA/la-mer-usa-skincare-infographics/blob/9bb4c7af98e3c3b66360a342f78d465d3bea4c53/assets/preview_infographic.png" alt="preview"/>
 </div>
