@@ -36,7 +36,7 @@ Who doesn't love neat, themed, and aesthetically pleasing infographics, especial
     </tr>
     <tr>
         <td>lamer_usa_30052024.csv</td>
-        <td>information on La Mer's best seller products (USA)</td>
+        <td>information on La Mer's best selling products (USA)</td>
     </tr>
     <tr>
         <td>lamer_usa_age_distribution_30052024.csv</td>
