@@ -7,7 +7,7 @@
 </h3>
 
 ## Overview
-Who doesn't love neat, themed, and aesthetically pleasing infographics, especially when they're automatically generated. I know I do! This La Mer skincare-themed infographic PDF utilizes data from the brand's website to provide key details on their top-selling products in the USA. This includes a bar plot showing the age distribution of customers who left reviews on one of the 19 best-selling products, along with information on the highest rated, most rated, lowest rated, and least rated products as of Thursday, May 30, 2024.
+Who doesn't love neat, themed, and aesthetically pleasing infographics, especially when they're automatically generated. I know I do! This La Mer skincare-themed infographic PDF utilizes data from the brand's website to provide key details on their top-selling products in the USA. This includes a bar plot showing the age distribution of customers who left reviews on one or more of La Mer's 19 best-selling products, along with information on the highest rated, most rated, lowest rated, and least rated products as of Thursday, May 30, 2024.
 <br>
 
 ## Flow of data
