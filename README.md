@@ -40,7 +40,7 @@ Who doesn't love neat, themed, and aesthetically pleasing infographics, especial
     </tr>
     <tr>
         <td>lamer_usa_age_distribution_30052024.csv</td>
-        <td>number of reviews left on each products by age range</td>
+        <td>number of reviews left on each product by age range</td>
     </tr>
 </table>
 
@@ -52,11 +52,11 @@ Who doesn't love neat, themed, and aesthetically pleasing infographics, especial
     </tr>
     <tr>
         <td>info_bar_30052024.json</td>
-        <td>data to be displayed on infographic's information bar</td>
+        <td>data displayed on infographic's information bar</td>
     </tr>
     <tr>
         <td>highlighted_products_30052024.json</td>
-        <td>highest, most, lowest, least rated product information</td>
+        <td>information on highest, most, lowest, least rated products</td>
     </tr>
     <tr>
         <td>reviews_age_distribution.json</td>
@@ -80,7 +80,7 @@ utils/
 
 ### Folder: assets
 ##### All assets used to complete project
-- infographic background
+- background
 - pictures
 - font
 
