@@ -1,5 +1,5 @@
 <h1 align="center">
-	Automated Infographics for La Mer Skincare USA Best Seller Products
+	Automated Infographics for La Mer Skincare USA Best-Seller Products
 </h1>
 
 <h3 align="center">
@@ -36,7 +36,7 @@ Who doesn't love neat, themed, and aesthetically pleasing infographics, especial
     </tr>
     <tr>
         <td>lamer_usa_30052024.csv</td>
-        <td>information on La Mer's best selling products (USA)</td>
+        <td>information on La Mer's best-selling products (USA)</td>
     </tr>
     <tr>
         <td>lamer_usa_age_distribution_30052024.csv</td>
