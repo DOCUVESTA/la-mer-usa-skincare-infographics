@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-	<img src="https://github.com/DOCUVESTA/la-mer-usa-skincare-infographics/blob/07cc64ce4f9ddfd3eff3ee7a499089b196a451e0/assets/header.png" width=850" height="300"/>
+	<img src="https://github.com/DOCUVESTA/la-mer-usa-skincare-infographics/blob/b233b9fe03feab7d63fa97767439ce4905fd9ce9/assets/header_lamer.png"/>
 </h3>
 
 ## Overview
