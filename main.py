@@ -1,4 +1,4 @@
-from scripts import load_clean_dataframe, prepare_infographics_data, create_graph, generate_pdf
+from utils import load_clean_dataframe, prepare_infographics_data, create_graph, generate_pdf
 
 def main():
     
