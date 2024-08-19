@@ -1,5 +1,5 @@
 <h1 align="center">
-	Automated PDF Infographic for La Mer Skincare Best-Selling Products
+	Generating an Infographic PDF for La Mer Skincare Best-Selling Products Using Python
 </h1>
 
 <h3 align="center">
